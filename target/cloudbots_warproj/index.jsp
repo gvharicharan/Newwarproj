@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Welcome to cloudbots warproject</h2>
+<h2>Hello World! Welcome to Jenkins pipeline triggered manually from compilejob</h2>
 </body>
 </html>
